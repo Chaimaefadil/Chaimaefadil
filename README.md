@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chaimae</h1>
 <h3 align="center">A passionate software engineer in training</h3>
-<img align="right" alt="coding" width="400" src=https://jurnaba.co/wp-content/uploads/2020/05/Medsos-1.jpg>
+<img align="right" alt="coding" width="400" src=https://www.thaipod101.com/static/images/login/img_sign-in.png>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimaefadil&label=Profile%20views&color=0e75b6&style=flat" alt="chaimaefadil" /> </p>
 
-- 📝 I regularly write articles on [blog.local](blog.local)
+- 📝 I regularly write articles on [http://blog.local/](http://blog.local/)
 
 - 📫 How to reach me **chaimaefadil09@gmail.com**
 
